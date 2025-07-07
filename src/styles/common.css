@@ -1,0 +1,7 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+@utility container {
+  @apply max-w-[1440px] mx-auto lg:px-0 px-5;
+}
